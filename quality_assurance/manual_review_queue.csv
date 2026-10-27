@@ -1,0 +1,11 @@
+﻿Market,Source Workbook Row,Business,Issue Type,Reason / What to verify,Status
+NYC,65,HANA HOUSE / BOKKI,Multiple business names or aliases in a single record,"Confirm whether one establishment, alias, or multiple independently operating businesses",Review required
+NYC,201,LITTLE BANCHAN SHOP / MEJU,Multiple business names or aliases in a single record,"Confirm whether one establishment, alias, or multiple independently operating businesses",Review required
+NYC,205,DUBUHAUS / HOWOO / MUSAEK,Multiple business names or aliases in a single record,"Confirm whether one establishment, alias, or multiple independently operating businesses",Review required
+NYC,220,KOFOO / THE SPOT CAFE,Multiple business names or aliases in a single record,"Confirm whether one establishment, alias, or multiple independently operating businesses",Review required
+NYC,332,PELICANA CHICKEN / JULIEAT'S,Multiple business names or aliases in a single record,"Confirm whether one establishment, alias, or multiple independently operating businesses",Review required
+NYC,337,GOLDEN HOF/ NY KIMCHI,Multiple business names or aliases in a single record,"Confirm whether one establishment, alias, or multiple independently operating businesses",Review required
+LA,25,Yangban Society,Operating status or brand identity,Historical closure reported; confirm inclusion in active-location list,Review required
+LA,71,Sonagi Korean BBQ,Operating status or brand identity,Historical closure reported; confirm inclusion in active-location list,Review required
+LA,16,Korean Kitchen Hibachi BBQ,Operating status or brand identity,Unofficial website removed from release; locate official site if available,Review required
+LA,31,Manna Korean BBQ,Operating status or brand identity,Website currently branded KB333; note business renaming/status,Review required

@@ -1,0 +1,3 @@
+﻿Market,Business,Source Identifier,Source File,Initial Limitation,Final Contact 1,Final Contact 2,Interpretation
+NYC,HAEJANG,CAMIS 50163543,NYC DOHMH inspection CSV,Repeated inspection citations; no email or website fields,haejangcorp@gmail.com,https://www.haejang.com/,Shows contact enrichment in final record; check latest official source before operational reuse
+LA,Namsan,OSM node 2165018868,OSM-derived Los Angeles CSV,"Source phone, email, and website fields empty",+1 213-382-7777,https://namsanla.com/,"Shows manual phone/website completion, not measured business impact"

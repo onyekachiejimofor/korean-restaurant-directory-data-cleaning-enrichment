@@ -1,0 +1,1 @@
+NYC & LA Korean restaurant directory: Excel/Power Query cleaning, web research, contact enrichment and QA across 488 curated records.

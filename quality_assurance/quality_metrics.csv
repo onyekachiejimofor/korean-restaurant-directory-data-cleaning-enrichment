@@ -1,0 +1,4 @@
+﻿Market,Records,Company Name Populated,Address Populated,Email Populated,Phone Populated,Website Populated,Email %,Website %,Duplicate Name+Address Groups,Malformed Emails,Malformed Websites,Unexpected Phone Digit Counts
+New York,414,414,414,222,414,306,53.6%,73.9%,0,0,0,0
+Los Angeles,74,74,74,31,74,53,41.9%,71.6%,0,0,0,0
+Combined,488,488,488,253,488,359,51.8%,73.6%,0,0,0,0
